@@ -1,0 +1,15 @@
+﻿  EZG-1.cpp
+E:\OneDrive - FH Technikum Wien\Studium\MGS\1. Semester\EZG\KDTree\EZG-1-master\EZG-1\Shader.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\OneDrive - FH Technikum Wien\Studium\MGS\1. Semester\EZG\KDTree\EZG-1-master\EZG-1\Mesh.h(88,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+E:\OneDrive - FH Technikum Wien\Studium\MGS\1. Semester\EZG\KDTree\EZG-1-master\EZG-1\EZG-1.cpp(366,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\OneDrive - FH Technikum Wien\Studium\MGS\1. Semester\EZG\KDTree\EZG-1-master\EZG-1\EZG-1.cpp(461,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\OneDrive - FH Technikum Wien\Studium\MGS\1. Semester\EZG\KDTree\EZG-1-master\EZG-1\EZG-1.cpp(432,15): warning C4101: 'pos': unreferenced local variable
+E:\OneDrive - FH Technikum Wien\Studium\MGS\1. Semester\EZG\KDTree\EZG-1-master\EZG-1\EZG-1.cpp(862,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\OneDrive - FH Technikum Wien\Studium\MGS\1. Semester\EZG\KDTree\EZG-1-master\EZG-1\EZG-1.cpp(863,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\OneDrive - FH Technikum Wien\Studium\MGS\1. Semester\EZG\KDTree\EZG-1-master\EZG-1\EZG-1.cpp(870,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\OneDrive - FH Technikum Wien\Studium\MGS\1. Semester\EZG\KDTree\EZG-1-master\EZG-1\EZG-1.cpp(871,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\OneDrive - FH Technikum Wien\Studium\MGS\1. Semester\EZG\KDTree\EZG-1-master\EZG-1\EZG-1.cpp(873,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\OneDrive - FH Technikum Wien\Studium\MGS\1. Semester\EZG\KDTree\EZG-1-master\EZG-1\EZG-1.cpp(874,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\OneDrive - FH Technikum Wien\Studium\MGS\1. Semester\EZG\KDTree\EZG-1-master\EZG-1\EZG-1.cpp(887,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  EZG-1.vcxproj -> E:\OneDrive - FH Technikum Wien\Studium\MGS\1. Semester\EZG\KDTree\EZG-1-master\x64\Debug\EZG-1.exe
